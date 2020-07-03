@@ -1,0 +1,13 @@
+{
+    "id": "MSF",
+    "short_code": "MSF",
+    "name": "MSF",
+    "full_name": "MSF",
+    "source_type": "Dictionary",
+    "public_access": "View",
+    "default_locale": "en",
+    "supported_locales": "en",
+    "website": "http://msf.org/",
+    "description": "A universal code system for identifying laboratory and clinical observations.",
+    "extras": { "msf_extra_field": "msf_extra_value" }
+}
