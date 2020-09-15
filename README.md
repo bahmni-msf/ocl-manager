@@ -1,9 +1,9 @@
 ### `ocl-manager`
 
-- Creates an Organization named `MSF`
-- Creates a public Source named `MSF` under `MSF` Organization
+- Creates an Organization named `MSFOCP`
+- Creates a public Source named `MSFOCP` under `MSFOCP` Organization
 - Creates users for OCL
-- Adds created users to `MSF` Organization
+- Adds created users to `MSFOCP` Organization
 
 
 ### Pre-requisite
