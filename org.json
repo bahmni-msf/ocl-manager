@@ -1,8 +1,8 @@
 {
-     "id": "MSF",
-    "name": "MSF Organization",
-     "company": "MSF",
-     "website": "http://msf.com/",
+     "id": "MSF-OCP",
+    "name": "Médecins Sans Frontières OCP",
+     "company": "MSF France",
+     "website": "https://msf.org/",
      "location": "Paris, France",
      "public_access": "View"
 }

@@ -1,13 +1,13 @@
 {
-    "id": "MSF",
-    "short_code": "MSF",
-    "name": "MSF",
-    "full_name": "MSF",
+    "id": "MSF-OCP",
+    "short_code": "MSF-OCP",
+    "name": "MSF-OCP",
+    "full_name": "MSF-OCP Source",
     "source_type": "Dictionary",
     "public_access": "View",
     "default_locale": "en",
     "supported_locales": "en",
-    "website": "http://msf.org/",
-    "description": "A universal code system for identifying laboratory and clinical observations.",
+    "website": "https://msf.org/",
+    "description": "MSF-OCP source",
     "extras": { "msf_extra_field": "msf_extra_value" }
 }
