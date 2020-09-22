@@ -6,7 +6,7 @@
     "source_type": "Dictionary",
     "public_access": "View",
     "default_locale": "en",
-    "supported_locales": "en",
+    "supported_locales": "fr,en,ht,es,ar",
     "website": "https://msf.org/",
     "description": "MSFOCP source",
     "extras": { "msf_extra_field": "msf_extra_value" }
